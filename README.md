@@ -32,6 +32,13 @@ Here's a more detailed breakdown of my technical skills:
 - **Back-End Development:** Skilled in back-end development using **Node.js**, enabling the creation of server-side applications and APIs.
 - **Database:** Proficient in working with databases, particularly **MongoDB**, for data storage and retrieval in web applications.
 
+#Check out the following projects as examples of me using the technologies above:
+[University Attendance Web Application](https://github.com/meorules/SecureAttendanceRegister)
+
+[VR Meeting Rooms (Made with IBM) ](https://github.com/meorules/IBM-Groub-B-Project)
+
+[Mathematical Calculation Discord Bot](https://github.com/meorules/Discord-Bot)
+
 #### Programming Languages:
 
 - **Java:** Proficient knowledge of Java and various libraries, capable of developing robust and efficient Java applications.
@@ -40,6 +47,16 @@ Here's a more detailed breakdown of my technical skills:
 - **C++:** Proficient in C++ programming, capable of developing high-performance applications.
 - **.Net C#:** Proficient in C# programming within the .NET framework for desktop and web applications.
 - **Xamarin & Mobile Development:** Proficient in Xamarin and mobile app development using **XAML & C#**, with the ability to create cross-platform mobile applications.
+
+#Check out the following projects as examples of me using the technologies above:
+[Star Wars Card Trading Game (Developed in C++)](https://github.com/meorules/StarWarsCardGame)
+
+[Concurrency Project Server](https://github.com/meorules/CAPSServer)
+[Concurrency Project Test Harness](https://github.com/meorules/CAPSTestHarness)
+
+[Meeting Scheduler Desktop Application (Developed in C#)](https://github.com/meorules/Meeting-Scheduler)
+
+[Basketball Data Collection Mobile App (Developed in Xamarin + C#) ](https://github.com/meorules/BasketballApp)
 
 #### Additional Tools and Technologies:
 
