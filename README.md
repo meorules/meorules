@@ -36,7 +36,7 @@ Here's a more detailed breakdown of my technical skills:
 
 [University Attendance Web Application](https://github.com/meorules/SecureAttendanceRegister)
 
-[VR Meeting Rooms (Made with IBM) ](https://github.com/meorules/IBM-Groub-B-Project)
+[VR Meeting Rooms (Made with IBM)](https://github.com/meorules/IBM-Groub-B-Project)
 
 [Mathematical Calculation Discord Bot](https://github.com/meorules/Discord-Bot)
 
@@ -53,8 +53,9 @@ Here's a more detailed breakdown of my technical skills:
 
 [Star Wars Card Trading Game (Developed in C++)](https://github.com/meorules/StarWarsCardGame)
 
-[Concurrency Project Server](https://github.com/meorules/CAPSServer)
-[Concurrency Project Test Harness](https://github.com/meorules/CAPSTestHarness)
+[Concurrency Project Server (Developed in C++)](https://github.com/meorules/CAPSServer)
+
+[Concurrency Project Test Harness (Developed in C++)](https://github.com/meorules/CAPSTestHarness)
 
 [Meeting Scheduler Desktop Application (Developed in C#)](https://github.com/meorules/Meeting-Scheduler)
 
