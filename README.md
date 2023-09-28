@@ -94,6 +94,6 @@ Here's a more detailed breakdown of my technical skills:
 
 - LinkedIn: [linkedin.com/in/mazeneomar/](https://www.linkedin.com/in/mazeneomar/)
 - GitHub: [github.com/meorules](https://github.com/meorules)
-- Email: [mazeneomar@gmail.com]
+- Email: mazeneomar@gmail.com
 
 Feel free to reach out and connect with me!
