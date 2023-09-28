@@ -32,7 +32,7 @@ Here's a more detailed breakdown of my technical skills:
 - **Back-End Development:** Skilled in back-end development using **Node.js**, enabling the creation of server-side applications and APIs.
 - **Database:** Proficient in working with databases, particularly **MongoDB**, for data storage and retrieval in web applications.
 
-#Check out the following projects as examples of me using the technologies above:
+# Check out the following projects as examples of me using the technologies above:
 
 [University Attendance Web Application](https://github.com/meorules/SecureAttendanceRegister)
 
@@ -49,7 +49,7 @@ Here's a more detailed breakdown of my technical skills:
 - **.Net C#:** Proficient in C# programming within the .NET framework for desktop and web applications.
 - **Xamarin & Mobile Development:** Proficient in Xamarin and mobile app development using **XAML & C#**, with the ability to create cross-platform mobile applications.
 
-#Check out the following projects as examples of me using the technologies above:
+# Check out the following projects as examples of me using the technologies above:
 
 [Star Wars Card Trading Game (Developed in C++)](https://github.com/meorules/StarWarsCardGame)
 
