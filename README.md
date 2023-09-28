@@ -33,6 +33,7 @@ Here's a more detailed breakdown of my technical skills:
 - **Database:** Proficient in working with databases, particularly **MongoDB**, for data storage and retrieval in web applications.
 
 #Check out the following projects as examples of me using the technologies above:
+
 [University Attendance Web Application](https://github.com/meorules/SecureAttendanceRegister)
 
 [VR Meeting Rooms (Made with IBM) ](https://github.com/meorules/IBM-Groub-B-Project)
@@ -49,6 +50,7 @@ Here's a more detailed breakdown of my technical skills:
 - **Xamarin & Mobile Development:** Proficient in Xamarin and mobile app development using **XAML & C#**, with the ability to create cross-platform mobile applications.
 
 #Check out the following projects as examples of me using the technologies above:
+
 [Star Wars Card Trading Game (Developed in C++)](https://github.com/meorules/StarWarsCardGame)
 
 [Concurrency Project Server](https://github.com/meorules/CAPSServer)
