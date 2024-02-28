@@ -1,6 +1,6 @@
 ## Hi there 👋 😃
 
-I'm Mazen Omar, a recent BSc Computer Science Hons graduate with a 1st class degree from Sheffield Hallam University. I have over 2 years of experience in software engineering and project management. Currently, I'm on the lookout for potential graduate jobs or schemes to further my professional development.
+I'm Mazen Omar, a recent BSc Computer Science Hons graduate with a 1st class degree from Sheffield Hallam University. I have over 2 years of experience in software engineering and project management. 
 
 ## Education 📚
 
