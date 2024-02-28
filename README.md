@@ -4,16 +4,17 @@ I'm Mazen Omar, a recent BSc Computer Science Hons graduate with a 1st class deg
 
 ## Education 📚
 
-- **BSc Computer Science Hons** | Sheffield Hallam University
-  - *October 2019 - May 2023*
+- **BSc Computer Science Hons** | Sheffield Hallam University -
+  *October 2019 - May 2023*
   - Graduated with a 1st class degree with an award classification mark of 82.6.
   - Highlights of important modules include:
     - Group Software Development Project, Professional Experience & Project Development, and the Final Year Project in Technical Computing.
     - Software Architecture & Design, where I developed an attendance system using JS, NodeJS, Vue & MongoDB.
     - Algorithms & Data Structures, OOPS for CS, and Fundamentals of Computer Architecture.
+------
 
-- **International Baccalaureate** | Dubai International Academy
-  - *September 2015 - May 2019*
+- **International Baccalaureate** | Dubai International Academy -
+  *September 2015 - May 2019*
   - Achieved a score of 29/45 with a C in Theory of Knowledge (epistemology) and passed CAS.
   - Notable extracurriculars include leadership roles and IT involvement.
 
@@ -83,28 +84,32 @@ Here's a more detailed breakdown of my technical skills:
   - Demonstrated excellent attendance and academic achievement.
 
 ## Experience 💼
-- **Graduate Software Engineer | Expleo Group**
-  - *October 2023 - Current*
+- **Graduate Software Engineer | Expleo Group** -
+  *October 2023 - Current*
   - Working in a team of developers to create, write and test low level requirements.
   - Testing requirements and mocking classes using Google Mock and Google Test.
+------
 
-- **Student Assistant | Sheffield Hallam University**
-  - *September 2022 - April 2023*
+- **Student Assistant | Sheffield Hallam University** -
+  *September 2022 - April 2023*
   - Worked with professors to deliver CS & SE Modules, mentoring university students.
+------
 
-- **Clearing Operator | Sheffield Hallam University**
-  - *July 2022 - September 2022*
+- **Clearing Operator | Sheffield Hallam University** -
+  *July 2022 - September 2022*
   - Efficiently processed and managed clearing applications, liasing with several teams to solve various issues.
+------
 
-- **Manufacturing Engineer Intern | CommScope**
-  - *June 2021 - May 2022*
+- **Manufacturing Engineer Intern | CommScope** -
+  *June 2021 - May 2022*
   - Developed & designed an award-winning global data collection solution as part of the
     development of Factory 4.0. 
   - Established an understanding in the business side of operations and strategy.
   - Learnt Python, DAX and developed an advanced understanding of SQL.  
+------
 
-- **Computer Science Intern | interTouch**
-  - *May 2017 - June 2017*
+- **Computer Science Intern | interTouch** -
+  *May 2017 - June 2017*
   - Gained exposure to global company cooperation, network design, and components.
 
 ## Hobbies & Passions 🌟
