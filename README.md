@@ -19,8 +19,6 @@ I'm Mazen Omar, a recent BSc Computer Science Hons graduate with a 1st class deg
 
 ## Skills 🛠️
 
-### Technical Skills:
-
 ### Technical Skills 🛠️
 
 Here's a more detailed breakdown of my technical skills:
@@ -85,6 +83,11 @@ Here's a more detailed breakdown of my technical skills:
   - Demonstrated excellent attendance and academic achievement.
 
 ## Experience 💼
+- **Graduate Software Engineer | Expleo Group**
+  - *October 2023 - Current*
+  - Working in a team of developers to create, write and test low level requirements.
+  - Testing requirements and mocking classes using Google Mock and Google Test.
+
 - **Student Assistant | Sheffield Hallam University**
   - *September 2022 - April 2023*
   - Worked with professors to deliver CS & SE Modules, mentoring university students.
